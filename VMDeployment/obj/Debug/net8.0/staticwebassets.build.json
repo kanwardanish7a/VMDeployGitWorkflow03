@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "l769Gk+9D/hGUycijSIwaC6iedVBjS7jHMq4mt9UUdw=",
+  "Source": "VMDeployment",
+  "BasePath": "_content/VMDeployment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
