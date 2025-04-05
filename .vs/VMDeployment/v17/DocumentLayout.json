@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\GitWorkflowPractice\\VMDeploy\\VMDeployment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6347B7FE-69F8-44E4-B539-04395A162762}|MyVmDeploy.Tests\\MyVmDeploy.Tests.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\gitworkflowpractice\\vmdeploy\\vmdeployment\\myvmdeploy.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6347B7FE-69F8-44E4-B539-04395A162762}|MyVmDeploy.Tests\\MyVmDeploy.Tests.csproj|solutionrelative:myvmdeploy.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6347B7FE-69F8-44E4-B539-04395A162762}|MyVmDeploy.Tests\\MyVmDeploy.Tests.csproj|c:\\users\\kanwa\\onedrive\\desktop\\learningandprepration\\gitworkflowpractice\\vmdeploy\\vmdeployment\\myvmdeploy.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6347B7FE-69F8-44E4-B539-04395A162762}|MyVmDeploy.Tests\\MyVmDeploy.Tests.csproj|solutionrelative:myvmdeploy.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\GitWorkflowPractice\\VMDeploy\\VMDeployment\\MyVmDeploy.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "MyVmDeploy.Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\GitWorkflowPractice\\VMDeploy\\VMDeployment\\MyVmDeploy.Tests\\Test1.cs",
+              "RelativeToolTip": "MyVmDeploy.Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:05:26.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\GitWorkflowPractice\\VMDeploy\\VMDeployment\\MyVmDeploy.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "MyVmDeploy.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\kanwa\\OneDrive\\Desktop\\LearningAndPrepration\\GitWorkflowPractice\\VMDeploy\\VMDeployment\\MyVmDeploy.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "MyVmDeploy.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:05:16.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
